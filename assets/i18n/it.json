@@ -1,0 +1,120 @@
+{
+  "home-page": {
+    "login": "Accedi",
+    "sign-up": "Registrati",
+    "logout": "Disconnetti",
+    "languages": "Lingue",
+    "dashboard": "Dashboard",
+    "contact-us": "Contattaci",
+    "teachers": {
+      "hero": {
+        "title": "Il futuro dei contenuti educativi",
+        "cta": "Inizia ora!",
+        "haveAccount": "Hai già un account?",
+        "login": "Accedi"
+      },
+      "ai": {
+        "title": "Un'IA che comprende le esigenze didattiche",
+        "description": "Aumenta la tua creatività e produttività con il nostro assistente AI che aiuta a generare contenuti educativi di alta qualità in pochi secondi.",
+        "details": "Supportato da un'intelligenza artificiale all'avanguardia, il nostro strumento ti aiuta a creare contenuti educativi di qualità più velocemente che mai. Basta descrivere il materiale di cui hai bisogno e la nostra AI può generare esami, testi di lezioni, domande a scelta multipla e persino grafici per arricchire i tuoi documenti. Ti fa risparmiare tempo garantendo al contempo contenuti accurati, coinvolgenti e ben strutturati. Che tu abbia bisogno di un esame completo o solo di ispirazione per una lezione, l'IA è qui per aiutarti in ogni fase."
+      },
+      "editor": {
+        "title": "Strumenti di editing avanzati per educatori",
+        "description": "Progetta contenuti educativi completi con equazioni LaTeX, grafici, immagini e domande strutturate — tutto in un unico posto.",
+        "details": "La nostra interfaccia di editing intuitiva ti consente di scrivere facilmente equazioni in stile LaTeX, creare grafici, inserire immagini e costruire domande d'esame strutturate. Che tu stia preparando materiale matematico complesso, grafici o test a scelta multipla, la nostra piattaforma offre tutto ciò di cui hai bisogno per creare documenti educativi professionali e ben rifiniti."
+      },
+      "pdf": {
+        "title": "Crea PDF stampabili per la classe",
+        "description": "Esporta tutti i tuoi contenuti educativi — dagli esami completi ai materiali del corso — in formato PDF pronto da stampare.",
+        "details": "La nostra piattaforma ti consente di esportare qualsiasi contenuto tu crei, che si tratti di un esame strutturato, una lezione completa o entrambi, in PDF puliti e professionali. Tutto è automaticamente formattato per adattarsi ai fogli A4 standard, garantendo un aspetto ordinato e facile da stampare. Nessuna formattazione aggiuntiva necessaria — crea, esporta e sei pronto per insegnare o condividere i tuoi materiali all’istante."
+      },
+      "save": {
+        "title": "Salva il tuo lavoro e riprendi più tardi",
+        "description": "Salva i tuoi progressi in modo sicuro e riprendi esattamente da dove avevi lasciato, in qualsiasi momento, con il tuo account personale.",
+        "details": "Con una semplice creazione dell'account, puoi salvare tutti i tuoi documenti e accedervi successivamente da qualsiasi dispositivo. Che tu stia avviando un nuovo progetto o perfezionando materiali esistenti, il tuo lavoro sarà sempre al sicuro e accessibile. Nessuna idea persa o tempo sprecato: tutto rimane organizzato e facilmente consultabile, rendendo il tuo flusso di lavoro più fluido e senza stress."
+      },
+      "comingSoon": {
+        "title": "Molto altro in arrivo",
+        "description": "Siamo solo all'inizio — nuove funzionalità e miglioramenti entusiasmanti stanno arrivando presto!"
+      },
+      "more": "Di più",
+      "less": "Di meno"
+    }
+  },
+  "authentification": {
+    "authentification": "Autenticazione",
+    "sign-up-as": "Registrati come",
+    "student": "Studente",
+    "host": "Ospitante",
+    "login-to-your-account": "Accedi al tuo account",
+    "reset-your-password": "Reimposta la tua password",
+    "email": "Email",
+    "email-format-wrong": "Formato email non corretto",
+    "password": "Password",
+    "password-format-wrong": "La password deve contenere almeno 8 caratteri",
+    "confirm-password": "Conferma password",
+    "not-match": "Non corrisponde",
+    "sign-up": "Registrati",
+    "password-required": "La password è obbligatoria",
+    "forgot-your-password": "Hai dimenticato la password?",
+    "login": "Accedi",
+    "new-password": "Nuova password",
+    "confirm-new-password": "Conferma nuova password",
+    "reset-password": "Reimposta password",
+    "forgot-password": "Password dimenticata",
+    "text-email-verification": "Inserisci la tua email e ti invieremo le istruzioni per reimpostare la tua password.",
+    "verify-email": "Verifica email",
+    "already-account": "Hai già un account?",
+    "sign-in": "Accedi",
+    "no-account": "Non hai ancora un account?"
+  },
+  "courses": {
+    "publicCourses": "Corsi pubblici",
+    "myCourses": "I miei corsi",
+    "sections": "Sezioni",
+    "newSection": "Nuova sezione",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "security": "Sicurezza",
+    "cancelCourse": "Annulla corso",
+    "newBlock": "Nuovo blocco",
+    "publishSection": "Pubblica sezione",
+    "publishCorrection": "Pubblica correzione",
+    "delete": "Elimina",
+    "exampleExamRequest": "Es.: Puoi creare un esame sulle derivate?",
+    "exampleLessonRequest": "Puoi darmi un modello per una lezione sul sistema solare?",
+    "preview": "Anteprima",
+    "download": "Scarica"
+  },
+  "profile": {
+    "profile": "Profilo",
+    "function": "Funzione",
+    "name": "Nome",
+    "email": "Email",
+    "modifyPassword": "Modifica la tua password",
+    "logout": "Disconnetti",
+    "account": "Account",
+    "basic": "Base",
+    "free": "Gratuito",
+    "upTo3Courses": "Fino a 3 corsi",
+    "noCourseSharing": "Condivisione corsi non disponibile",
+    "max3Sections": "Max 3 sezioni/corso",
+    "limitedAI": "Richieste IA limitate",
+    "noImages": "Nessuna immagine",
+    "premium": "Premium",
+    "price": "5,99€/mese",
+    "unlimitedCourses": "Corsi illimitati",
+    "courseSharing": "Condivisione corsi",
+    "unlimitedSections": "Sezioni illimitate/corso",
+    "unlimitedAI": "Richieste IA illimitate",
+    "images": "Immagini",
+    "cancelSubscription": "Annulla abbonamento"
+  },
+  "grapher": {
+    "noGraphPlotted": "Nessun grafico tracciato",
+    "minMax": "Min/Max",
+    "plot": "Traccia",
+    "replace": "Sostituisci",
+    "cancel": "Annulla"
+  }
+}

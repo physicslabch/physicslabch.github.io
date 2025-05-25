@@ -1,0 +1,120 @@
+{
+  "home-page": {
+    "login": "Log In",
+    "sign-up": "Sign up",
+    "logout": "Logout",
+    "languages": "Languages",
+    "dashboard": "Dashboard",
+    "contact-us": "Contact us",
+    "teachers": {
+      "hero": {
+        "title": "The Future of Educational Content",
+        "cta": "Get Started!",
+        "haveAccount": "Have an account?",
+        "login": "Log In"
+      },
+      "ai": {
+        "title": "AI That Understands Teaching Needs",
+        "description": "Boost your creativity and productivity with our AI assistant that helps generate high-quality educational content in seconds.",
+        "details": "Powered by cutting-edge artificial intelligence, our tool helps you generate quality educational content faster than ever. Simply describe the material you need, and our AI can produce exams, lesson texts, multiple-choice questions, and even graphs to enrich your documents. It saves you time while ensuring that your content stays accurate, engaging, and well-structured. Whether you need a full exam or just inspiration for a lesson, AI is here to assist you at every step."
+      },
+      "editor": {
+        "title": "Rich Editing Tools for Educators",
+        "description": "Design rich educational content with LaTeX equations, graphics, images, and structured exam questions — all in one place.",
+        "details": "Our intuitive editing interface allows you to seamlessly write LaTeX-style equations, create graphics, insert images, and build structured exam questions. Whether you are preparing complex mathematical material, graphics, or standard multiple-choice tests, our platform provides everything you need to craft professional and polished educational documents."
+      },
+      "pdf": {
+        "title": "Create Printable PDFs for the Classroom",
+        "description": "Export all your educational content — from full exams to complete course materials — in beautiful, ready-to-print PDF format.",
+        "details": "Our platform allows you to export any content you create, whether it’s a structured exam, a full lesson, or a combination of both, into clean, professional-looking PDFs. Everything is automatically formatted to fit standard A4 pages, ensuring a polished appearance that’s easy to print and distribute in physical classrooms. No extra formatting is needed — just create, export, and you’re ready to teach or share your materials instantly."
+      },
+      "save": {
+        "title": "Save your work and come back later",
+        "description": "Save your progress securely and pick up right where you left off anytime with your personal account.",
+        "details": "With a simple account creation, you can save all your documents and access them later from any device. Whether you’re drafting a new project or refining existing materials, your work is always safe and ready to be resumed whenever you need it. No more lost ideas or wasted time: everything stays organized and accessible, making your workflow smooth and stress-free."
+      },
+      "comingSoon": {
+        "title": "More to come",
+        "description": "We’re just getting started — exciting new features and enhancements are coming soon!"
+      },
+      "more": "More",
+      "less": "Less"
+    }
+  },
+  "authentification": {
+    "authentification": "Authentication",
+    "sign-up-as": "Sign up as a",
+    "student": "Student",
+    "host": "Host",
+    "login-to-your-account": "Login to your account",
+    "reset-your-password": "Reset your password",
+    "email": "Email",
+    "email-format-wrong": "Email has not the right format",
+    "password": "Password",
+    "password-format-wrong": "Password needs to be at least 8 characters",
+    "confirm-password": "Confirm password",
+    "not-match": "Doesn't match",
+    "sign-up": "Sign up",
+    "password-required": "Password is required",
+    "forgot-your-password": "Forgot your password?",
+    "login": "Login",
+    "new-password": "New password",
+    "confirm-new-password": "Confirm new password",
+    "reset-password": "Reset password",
+    "forgot-password": "Forgot Password",
+    "text-email-verification": "Enter your email and we'll send you instructions on how to reset your password.",
+    "verify-email": "Verify email",
+    "already-account": "Already have an account?",
+    "sign-in": "Sign in",
+    "no-account": "You don't have an account yet?"
+  },
+  "courses": {
+    "publicCourses": "Public Courses",
+    "myCourses": "My Courses",
+    "sections": "Sections",
+    "newSection": "New section",
+    "cancel": "Cancel",
+    "save": "Save",
+    "security": "Security",
+    "cancelCourse": "Cancel Course",
+    "newBlock": "New block",
+    "publishSection": "Publish section",
+    "publishCorrection": "Publish correction",
+    "delete": "Delete",
+    "exampleExamRequest": "E.g: Can you create an exam on derivative ?",
+    "exampleLessonRequest": "Can you give me a template for a lesson on the solar system ?",
+    "preview": "Preview",
+    "download": "Download"
+  },
+  "profile": {
+    "profile": "Profile",
+    "function": "Function",
+    "name": "Name",
+    "email": "Email",
+    "modifyPassword": "Modify your password",
+    "logout": "Logout",
+    "account": "Account",
+    "basic": "Basic",
+    "free": "Free",
+    "upTo3Courses": "Up to 3 courses",
+    "noCourseSharing": "No course sharing",
+    "max3Sections": "Max 3 sections/course",
+    "limitedAI": "Limited AI assistant requests",
+    "noImages": "No images",
+    "premium": "Premium",
+    "price": "5.99.-/month",
+    "unlimitedCourses": "Unlimited courses",
+    "courseSharing": "Courses sharing",
+    "unlimitedSections": "Unlimited sections/course",
+    "unlimitedAI": "Unlimited AI assistant requests",
+    "images": "Images",
+    "cancelSubscription": "Cancel subscription"
+  },
+  "grapher": {
+    "noGraphPlotted": "No graph plotted",
+    "minMax": "Min/Max",
+    "plot": "Plot",
+    "replace": "Replace",
+    "cancel": "Cancel"
+  }
+}

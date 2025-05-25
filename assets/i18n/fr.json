@@ -1,0 +1,120 @@
+{
+  "home-page": {
+    "login": "Se connecter",
+    "sign-up": "S'inscrire",
+    "logout": "Se déconnecter",
+    "languages": "Langues",
+    "dashboard": "Tableau de bord",
+    "contact-us": "Contactez-nous",
+    "teachers": {
+      "hero": {
+        "title": "L'avenir du contenu éducatif",
+        "cta": "Commencer !",
+        "haveAccount": "Vous avez un compte ?",
+        "login": "Se connecter"
+      },
+      "ai": {
+        "title": "Une IA qui comprend les besoins pédagogiques",
+        "description": "Stimulez votre créativité et votre productivité avec notre assistant IA qui aide à générer du contenu éducatif de haute qualité en quelques secondes.",
+        "details": "Propulsé par une intelligence artificielle de pointe, notre outil vous aide à générer du contenu éducatif de qualité plus rapidement que jamais. Décrivez simplement le matériel dont vous avez besoin, et notre IA peut produire des examens, des textes de leçon, des questions à choix multiples et même des graphiques pour enrichir vos documents. Il vous fait gagner du temps tout en garantissant que votre contenu reste précis, engageant et bien structuré. Que vous ayez besoin d'un examen complet ou simplement d'inspiration pour une leçon, l'IA est là pour vous aider à chaque étape."
+      },
+      "editor": {
+        "title": "Outils d'édition riches pour les éducateurs",
+        "description": "Concevez un contenu éducatif riche avec des équations LaTeX, des graphiques, des images et des questions d'examen structurées — le tout en un seul endroit.",
+        "details": "Notre interface d'édition intuitive vous permet d'écrire sans effort des équations de style LaTeX, de créer des graphiques, d'insérer des images et de construire des questions d'examen structurées. Que vous prépariez du matériel mathématique complexe, des graphiques ou des tests à choix multiples standard, notre plateforme fournit tout ce dont vous avez besoin pour créer des documents éducatifs professionnels et soignés."
+      },
+      "pdf": {
+        "title": "Créez des PDF imprimables pour la salle de classe",
+        "description": "Exportez tout votre contenu éducatif — des examens complets aux supports de cours complets — dans un format PDF magnifique, prêt à être imprimé.",
+        "details": "Notre plateforme vous permet d'exporter tout contenu que vous créez, qu'il s'agisse d'un examen structuré, d'une leçon complète ou d'une combinaison des deux, en PDF propres et professionnels. Tout est automatiquement formaté pour s'adapter aux pages A4 standard, garantissant une apparence soignée facile à imprimer et à distribuer dans les salles de classe physiques. Aucun formatage supplémentaire n'est nécessaire — créez, exportez, et vous êtes prêt à enseigner ou à partager vos documents instantanément."
+      },
+      "save": {
+        "title": "Enregistrez votre travail et revenez plus tard",
+        "description": "Enregistrez votre progression en toute sécurité et reprenez là où vous vous étiez arrêté à tout moment avec votre compte personnel.",
+        "details": "Avec une simple création de compte, vous pouvez enregistrer tous vos documents et y accéder plus tard depuis n'importe quel appareil. Que vous soyez en train de rédiger un nouveau projet ou d'affiner des documents existants, votre travail est toujours en sécurité et prêt à être repris chaque fois que vous en avez besoin. Plus d'idées perdues ou de temps gaspillé : tout reste organisé et accessible, rendant votre flux de travail fluide et sans stress."
+      },
+      "comingSoon": {
+        "title": "À venir",
+        "description": "Nous ne faisons que commencer — de nouvelles fonctionnalités passionnantes et des améliorations arrivent bientôt !"
+      },
+      "more": "Plus",
+      "less": "Moins"
+    }
+  },
+  "authentification": {
+    "authentification": "Authentification",
+    "sign-up-as": "S'inscrire en tant que",
+    "student": "Étudiant",
+    "host": "Hôte",
+    "login-to-your-account": "Connectez-vous à votre compte",
+    "reset-your-password": "Réinitialiser votre mot de passe",
+    "email": "Email",
+    "email-format-wrong": "L'email n'a pas le bon format",
+    "password": "Mot de passe",
+    "password-format-wrong": "Le mot de passe doit comporter au moins 8 caractères",
+    "confirm-password": "Confirmer le mot de passe",
+    "not-match": "Ne correspond pas",
+    "sign-up": "S'inscrire",
+    "password-required": "Le mot de passe est requis",
+    "forgot-your-password": "Mot de passe oublié ?",
+    "login": "Se connecter",
+    "new-password": "Nouveau mot de passe",
+    "confirm-new-password": "Confirmer le nouveau mot de passe",
+    "reset-password": "Réinitialiser le mot de passe",
+    "forgot-password": "Mot de passe oublié",
+    "text-email-verification": "Entrez votre email et nous vous enverrons des instructions pour réinitialiser votre mot de passe.",
+    "verify-email": "Vérifier l'email",
+    "already-account": "Vous avez déjà un compte ?",
+    "sign-in": "Se connecter",
+    "no-account": "Vous n'avez pas encore de compte ?"
+  },
+  "courses": {
+    "publicCourses": "Cours publics",
+    "myCourses": "Mes cours",
+    "sections": "Sections",
+    "newSection": "Nouvelle section",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "security": "Sécurité",
+    "cancelCourse": "Annuler le cours",
+    "newBlock": "Nouveau bloc",
+    "publishSection": "Publier la section",
+    "publishCorrection": "Publier la correction",
+    "delete": "Supprimer",
+    "exampleExamRequest": "Ex : Peux-tu créer un examen sur la dérivée ?",
+    "exampleLessonRequest": "Peux-tu me donner un modèle de leçon sur le système solaire ?",
+    "preview": "Aperçu",
+    "download": "Télécharger"
+  },
+  "profile": {
+    "profile": "Profil",
+    "function": "Fonction",
+    "name": "Nom",
+    "email": "Email",
+    "modifyPassword": "Modifier votre mot de passe",
+    "logout": "Se déconnecter",
+    "account": "Compte",
+    "basic": "Basique",
+    "free": "Gratuit",
+    "upTo3Courses": "Jusqu'à 3 cours",
+    "noCourseSharing": "Partage de cours non autorisé",
+    "max3Sections": "Max 3 sections/cours",
+    "limitedAI": "Requêtes d'assistant IA limitées",
+    "noImages": "Pas d'images",
+    "premium": "Premium",
+    "price": "5,99€/mois",
+    "unlimitedCourses": "Cours illimités",
+    "courseSharing": "Partage de cours",
+    "unlimitedSections": "Sections illimitées/cours",
+    "unlimitedAI": "Requêtes d'assistant IA illimitées",
+    "images": "Images",
+    "cancelSubscription": "Annuler l'abonnement"
+  },
+  "grapher": {
+    "noGraphPlotted": "Aucun graphique tracé",
+    "minMax": "Min/Max",
+    "plot": "Tracer",
+    "replace": "Remplacer",
+    "cancel": "Annuler"
+  }
+}

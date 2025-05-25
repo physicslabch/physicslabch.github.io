@@ -1,0 +1,120 @@
+{
+  "home-page": {
+    "login": "Anmelden",
+    "sign-up": "Registrieren",
+    "logout": "Abmelden",
+    "languages": "Sprachen",
+    "dashboard": "Dashboard",
+    "contact-us": "Kontaktieren Sie uns",
+    "teachers": {
+      "hero": {
+        "title": "Die Zukunft von Bildungsinhalten",
+        "cta": "Loslegen!",
+        "haveAccount": "Haben Sie ein Konto?",
+        "login": "Anmelden"
+      },
+      "ai": {
+        "title": "KI, die pädagogische Bedürfnisse versteht",
+        "description": "Steigern Sie Ihre Kreativität und Produktivität mit unserem KI-Assistenten, der hilft, hochwertige Bildungsinhalte in Sekunden zu erstellen.",
+        "details": "Angetrieben von modernster künstlicher Intelligenz hilft Ihnen unser Tool, qualitativ hochwertige Bildungsinhalte schneller als je zuvor zu erstellen. Beschreiben Sie einfach das benötigte Material, und unsere KI kann Prüfungen, Lektionstexte, Multiple-Choice-Fragen und sogar Grafiken erstellen, um Ihre Dokumente zu bereichern. Es spart Ihnen Zeit und stellt sicher, dass Ihre Inhalte genau, ansprechend und gut strukturiert bleiben. Ob Sie eine vollständige Prüfung oder nur Inspiration für eine Lektion benötigen, die KI steht Ihnen bei jedem Schritt zur Seite."
+      },
+      "editor": {
+        "title": "Umfassende Bearbeitungstools für Pädagogen",
+        "description": "Gestalten Sie umfassende Bildungsinhalte mit LaTeX-Gleichungen, Grafiken, Bildern und strukturierten Prüfungsfragen — alles an einem Ort.",
+        "details": "Unsere intuitive Bearbeitungsoberfläche ermöglicht es Ihnen, nahtlos LaTeX-ähnliche Gleichungen zu schreiben, Grafiken zu erstellen, Bilder einzufügen und strukturierte Prüfungsfragen zu erstellen. Ob Sie komplexes mathematisches Material, Grafiken oder standardisierte Multiple-Choice-Tests vorbereiten, unsere Plattform bietet alles, was Sie benötigen, um professionelle und ausgefeilte Bildungsdokumente zu erstellen."
+      },
+      "pdf": {
+        "title": "Erstellen Sie druckbare PDFs für das Klassenzimmer",
+        "description": "Exportieren Sie alle Ihre Bildungsinhalte — von vollständigen Prüfungen bis hin zu kompletten Kursmaterialien — in einem schönen, druckfertigen PDF-Format.",
+        "details": "Unsere Plattform ermöglicht es Ihnen, alle erstellten Inhalte, sei es eine strukturierte Prüfung, eine vollständige Lektion oder eine Kombination aus beidem, in saubere, professionell aussehende PDFs zu exportieren. Alles wird automatisch so formatiert, dass es auf Standard-A4-Seiten passt, was ein elegantes Erscheinungsbild gewährleistet, das leicht zu drucken und in physischen Klassenzimmern zu verteilen ist. Kein zusätzliches Formatieren erforderlich — einfach erstellen, exportieren und Sie sind bereit zu unterrichten oder Ihre Materialien sofort zu teilen."
+      },
+      "save": {
+        "title": "Speichern Sie Ihre Arbeit und kehren Sie später zurück",
+        "description": "Speichern Sie Ihren Fortschritt sicher und setzen Sie jederzeit dort fort, wo Sie aufgehört haben, mit Ihrem persönlichen Konto.",
+        "details": "Mit einer einfachen Kontoerstellung können Sie alle Ihre Dokumente speichern und später von jedem Gerät aus darauf zugreifen. Ob Sie ein neues Projekt entwerfen oder bestehende Materialien verfeinern, Ihre Arbeit ist immer sicher und bereit, wann immer Sie sie benötigen. Keine verlorenen Ideen oder verschwendete Zeit mehr: Alles bleibt organisiert und zugänglich, was Ihren Arbeitsablauf reibungslos und stressfrei macht."
+      },
+      "comingSoon": {
+        "title": "Mehr kommt bald",
+        "description": "Wir fangen gerade erst an — spannende neue Funktionen und Verbesserungen kommen bald!"
+      },
+       "more": "Mehr",
+      "less": "Weniger"
+    }
+  },
+  "authentification": {
+    "authentification": "Authentifizierung",
+    "sign-up-as": "Registrieren als",
+    "student": "Student",
+    "host": "Gastgeber",
+    "login-to-your-account": "In Ihr Konto einloggen",
+    "reset-your-password": "Passwort zurücksetzen",
+    "email": "E-Mail",
+    "email-format-wrong": "E-Mail hat das falsche Format",
+    "password": "Passwort",
+    "password-format-wrong": "Passwort muss mindestens 8 Zeichen lang sein",
+    "confirm-password": "Passwort bestätigen",
+    "not-match": "Stimmt nicht überein",
+    "sign-up": "Registrieren",
+    "password-required": "Passwort ist erforderlich",
+    "forgot-your-password": "Passwort vergessen?",
+    "login": "Anmelden",
+    "new-password": "Neues Passwort",
+    "confirm-new-password": "Neues Passwort bestätigen",
+    "reset-password": "Passwort zurücksetzen",
+    "forgot-password": "Passwort vergessen",
+    "text-email-verification": "Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen, wie Sie Ihr Passwort zurücksetzen können.",
+    "verify-email": "E-Mail verifizieren",
+    "already-account": "Haben Sie bereits ein Konto?",
+    "sign-in": "Anmelden",
+    "no-account": "Haben Sie noch kein Konto?"
+  },
+  "courses": {
+    "publicCourses": "Öffentliche Kurse",
+    "myCourses": "Meine Kurse",
+    "sections": "Abschnitte",
+    "newSection": "Neuer Abschnitt",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "security": "Sicherheit",
+    "cancelCourse": "Kurs abbrechen",
+    "newBlock": "Neuer Block",
+    "publishSection": "Abschnitt veröffentlichen",
+    "publishCorrection": "Korrektur veröffentlichen",
+    "delete": "Löschen",
+    "exampleExamRequest": "Z. B.: Kannst du eine Prüfung über Ableitungen erstellen?",
+    "exampleLessonRequest": "Kannst du mir eine Vorlage für eine Lektion über das Sonnensystem geben?",
+    "preview": "Vorschau",
+    "download": "Herunterladen"
+  },
+  "profile": {
+    "profile": "Profil",
+    "function": "Funktion",
+    "name": "Name",
+    "email": "E-Mail",
+    "modifyPassword": "Passwort ändern",
+    "logout": "Abmelden",
+    "account": "Konto",
+    "basic": "Basis",
+    "free": "Kostenlos",
+    "upTo3Courses": "Bis zu 3 Kurse",
+    "noCourseSharing": "Kein Kurs-Sharing",
+    "max3Sections": "Max. 3 Abschnitte/Kurs",
+    "limitedAI": "Begrenzte KI-Anfragen",
+    "noImages": "Keine Bilder",
+    "premium": "Premium",
+    "price": "5,99 €/Monat",
+    "unlimitedCourses": "Unbegrenzte Kurse",
+    "courseSharing": "Kurs-Sharing",
+    "unlimitedSections": "Unbegrenzte Abschnitte/Kurs",
+    "unlimitedAI": "Unbegrenzte KI-Anfragen",
+    "images": "Bilder",
+    "cancelSubscription": "Abonnement kündigen"
+  },
+  "grapher": {
+    "noGraphPlotted": "Kein Diagramm gezeichnet",
+    "minMax": "Min/Max",
+    "plot": "Zeichnen",
+    "replace": "Ersetzen",
+    "cancel": "Abbrechen"
+  }
+}
