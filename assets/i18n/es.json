@@ -69,7 +69,7 @@
     "no-account": "¿Aún no tienes una cuenta?"
   },
   "courses": {
-    "shareCourseBody": "Accede a {{courseName}} con el siguiente enlace: www.lab4students.com/?studentcourseid={{courseId}}",
+    "shareCourseBody": "Accede a {{courseName}} con el siguiente enlace: www.lab4students.com/#/?studentcourseid={{courseId}}",
     "public": "Público",
     "AccessCourses": "Acceder a cursos",
     "publicCourses": "Cursos públicos",
