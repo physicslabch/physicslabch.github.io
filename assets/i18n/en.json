@@ -69,6 +69,9 @@
     "no-account": "You don't have an account yet?"
   },
   "courses": {
+    "shareCourseBody": "Access {{courseName}} with the following link: www.lab4students.com/?studentcourseid={{courseId}}",
+    "public": "Public",
+    "AccessCourses": "Access Courses",
     "publicCourses": "Public Courses",
     "myCourses": "My Courses",
     "sections": "Sections",
