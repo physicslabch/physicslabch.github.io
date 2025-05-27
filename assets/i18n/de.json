@@ -23,6 +23,10 @@
         "description": "Gestalten Sie umfassende Bildungsinhalte mit LaTeX-Gleichungen, Grafiken, Bildern und strukturierten Prüfungsfragen — alles an einem Ort.",
         "details": "Unsere intuitive Bearbeitungsoberfläche ermöglicht es Ihnen, nahtlos LaTeX-ähnliche Gleichungen zu schreiben, Grafiken zu erstellen, Bilder einzufügen und strukturierte Prüfungsfragen zu erstellen. Ob Sie komplexes mathematisches Material, Grafiken oder standardisierte Multiple-Choice-Tests vorbereiten, unsere Plattform bietet alles, was Sie benötigen, um professionelle und ausgefeilte Bildungsdokumente zu erstellen."
       },
+      "lab4students": {
+        "description": "Lab4Students ist eine webbasierte Plattform, mit der Lehrkräfte Kursinhalte und Aufgaben direkt mit ihren Schülern teilen und Online-Prüfungen mit automatischer Korrektur und Bewertung verwalten können.",
+        "details": "Lab4Students wurde entwickelt, um nahtlos mit Lab4Teachers zusammenzuarbeiten, und ermöglicht es Lehrkräften, Lernmaterialien flexibel und kontrolliert bereitzustellen. Sie können vollständige Kurse oder nur bestimmte Abschnitte teilen, angepasst an die Bedürfnisse ihrer Schülergruppen. Über sichere E-Mail-Links greifen Schüler auf die Inhalte zu, ohne sich registrieren zu müssen – das vereinfacht den Ablauf erheblich. Aufgaben und Prüfungen werden online durchgeführt und vom System sofort automatisch korrigiert, die Ergebnisse erscheinen direkt im Anschluss. Lehrkräfte können entscheiden, wann Lösungen oder Rückmeldungen sichtbar sind, und behalten so die volle Kontrolle über den Lernprozess. Dieses System verbessert die Effizienz im Klassenzimmer, reduziert den manuellen Korrekturaufwand und fördert durch strukturierten und zeitgerechten Inhalt die Motivation der Schüler. Ob für Hausaufgaben, Wiederholungen oder Prüfungen – Lab4Students bringt moderne Werkzeuge direkt zu den Lernenden."
+      },
       "pdf": {
         "title": "Erstellen Sie druckbare PDFs für das Klassenzimmer",
         "description": "Exportieren Sie alle Ihre Bildungsinhalte — von vollständigen Prüfungen bis hin zu kompletten Kursmaterialien — in einem schönen, druckfertigen PDF-Format.",
@@ -37,7 +41,7 @@
         "title": "Mehr kommt bald",
         "description": "Wir fangen gerade erst an — spannende neue Funktionen und Verbesserungen kommen bald!"
       },
-       "more": "Mehr",
+      "more": "Mehr",
       "less": "Weniger"
     }
   },

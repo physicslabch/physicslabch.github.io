@@ -23,6 +23,10 @@
         "description": "Design rich educational content with LaTeX equations, graphics, images, and structured exam questions — all in one place.",
         "details": "Our intuitive editing interface allows you to seamlessly write LaTeX-style equations, create graphics, insert images, and build structured exam questions. Whether you are preparing complex mathematical material, graphics, or standard multiple-choice tests, our platform provides everything you need to craft professional and polished educational documents."
       },
+      "lab4students": {
+        "description": "Lab4Students is a web-based platform that allows teachers to share course content and assignments directly with their students and manage online exams with automatic correction and scoring.",
+        "details": "Designed to work seamlessly alongside Lab4Teachers, Lab4Students enables educators to deliver learning materials in a flexible and controlled way. Teachers can choose to share entire courses or just specific sections, tailoring the experience for each group of students. Through secure links sent via email, students can access the content without needing to register, simplifying the process for both parties. Assignments and exams are taken online and corrected instantly by the system, with scores calculated and displayed upon completion. Educators can decide when to make answers or feedback visible, giving them full command over the learning flow. This system enhances classroom efficiency, reduces manual grading, and helps ensure that students stay engaged with timely, structured content. Whether it's for homework, revision, or formal assessments, Lab4Students brings modern teaching tools directly into the hands of learners."
+      },
       "pdf": {
         "title": "Create Printable PDFs for the Classroom",
         "description": "Export all your educational content — from full exams to complete course materials — in beautiful, ready-to-print PDF format.",

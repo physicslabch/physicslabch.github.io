@@ -23,6 +23,10 @@
         "description": "Diseña contenido educativo completo con ecuaciones LaTeX, gráficos, imágenes y preguntas estructuradas, todo en un solo lugar.",
         "details": "Nuestra interfaz de edición intuitiva te permite escribir ecuaciones estilo LaTeX, crear gráficos, insertar imágenes y construir preguntas de examen estructuradas. Ya sea que estés preparando material matemático complejo, gráficos o exámenes estándar de opción múltiple, nuestra plataforma te proporciona todo lo necesario para crear documentos educativos profesionales y pulidos."
       },
+      "lab4students": {
+        "description": "Lab4Students es una plataforma web que permite a los profesores compartir contenido del curso y tareas directamente con sus estudiantes y gestionar exámenes en línea con corrección y puntuación automáticas.",
+        "details": "Diseñado para funcionar perfectamente con Lab4Teachers, Lab4Students permite a los profesores ofrecer materiales educativos de forma flexible y controlada. Pueden compartir cursos completos o solo secciones específicas, adaptando la experiencia a cada grupo de estudiantes. Mediante enlaces seguros enviados por correo electrónico, los estudiantes acceden al contenido sin necesidad de registrarse, lo que facilita el proceso. Las tareas y exámenes se realizan en línea y el sistema los corrige automáticamente, mostrando las puntuaciones al finalizar. Los profesores pueden decidir cuándo publicar las respuestas o los comentarios, manteniendo el control total del proceso de aprendizaje. Este sistema mejora la eficiencia en el aula, reduce el trabajo de corrección manual y ayuda a mantener a los estudiantes comprometidos con contenido estructurado y oportuno. Ya sea para deberes, repaso o evaluaciones formales, Lab4Students pone herramientas educativas modernas directamente en manos de los estudiantes."
+      },
       "pdf": {
         "title": "Crea PDFs imprimibles para el aula",
         "description": "Exporta todo tu contenido educativo — desde exámenes completos hasta materiales de curso — en un hermoso formato PDF listo para imprimir.",

@@ -23,6 +23,10 @@
         "description": "Progetta contenuti educativi completi con equazioni LaTeX, grafici, immagini e domande strutturate — tutto in un unico posto.",
         "details": "La nostra interfaccia di editing intuitiva ti consente di scrivere facilmente equazioni in stile LaTeX, creare grafici, inserire immagini e costruire domande d'esame strutturate. Che tu stia preparando materiale matematico complesso, grafici o test a scelta multipla, la nostra piattaforma offre tutto ciò di cui hai bisogno per creare documenti educativi professionali e ben rifiniti."
       },
+      "lab4students": {
+        "description": "Lab4Students è una piattaforma web che consente agli insegnanti di condividere contenuti del corso e compiti direttamente con i propri studenti e di gestire esami online con correzione e valutazione automatica.",
+        "details": "Progettato per integrarsi perfettamente con Lab4Teachers, Lab4Students consente agli insegnanti di fornire materiali didattici in modo flessibile e controllato. Gli insegnanti possono scegliere di condividere interi corsi o solo sezioni specifiche, adattando l'esperienza a ciascun gruppo di studenti. Tramite link sicuri inviati via email, gli studenti possono accedere ai contenuti senza doversi registrare, semplificando il processo per tutti. Compiti ed esami si svolgono online e vengono corretti automaticamente dal sistema, con il punteggio visibile alla fine. Gli insegnanti possono scegliere quando rendere visibili risposte e feedback, mantenendo così il controllo del flusso didattico. Questo sistema migliora l'efficienza in classe, riduce la correzione manuale e mantiene gli studenti coinvolti con contenuti puntuali e ben strutturati. Che si tratti di compiti, ripassi o verifiche formali, Lab4Students porta strumenti didattici moderni direttamente nelle mani degli studenti."
+      },
       "pdf": {
         "title": "Crea PDF stampabili per la classe",
         "description": "Esporta tutti i tuoi contenuti educativi — dagli esami completi ai materiali del corso — in formato PDF pronto da stampare.",
