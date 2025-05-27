@@ -100,18 +100,20 @@
     "basic": "Basis",
     "free": "Kostenlos",
     "upTo3Courses": "Bis zu 3 Kurse",
-    "noCourseSharing": "Kein Kurs-Sharing",
     "max3Sections": "Max. 3 Abschnitte/Kurs",
     "limitedAI": "Begrenzte KI-Anfragen",
     "noImages": "Keine Bilder",
     "premium": "Premium",
     "price": "5,99 €/Monat",
     "unlimitedCourses": "Unbegrenzte Kurse",
-    "courseSharing": "Kurs-Sharing",
     "unlimitedSections": "Unbegrenzte Abschnitte/Kurs",
     "unlimitedAI": "Unbegrenzte KI-Anfragen",
     "images": "Bilder",
-    "cancelSubscription": "Abonnement kündigen"
+    "cancelSubscription": "Abonnement kündigen",
+    "limitedCourseSharing": "Begrenztes Kurs-Teilen",
+    "unlimitedCourseSharing": "Unbegrenztes Kurs-Teilen",
+    "maxThreeOnlineExams": "Maximal 3 Online-Prüfungen",
+    "unlimitedOnlineExams": "Unbegrenzte Online-Prüfungen"
   },
   "grapher": {
     "noGraphPlotted": "Kein Diagramm gezeichnet",
