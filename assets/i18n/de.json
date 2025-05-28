@@ -15,13 +15,18 @@
       },
       "ai": {
         "title": "KI, die pädagogische Bedürfnisse versteht",
-        "description": "Steigern Sie Ihre Kreativität und Produktivität mit unserem KI-Assistenten, der hilft, hochwertige Bildungsinhalte in Sekunden zu erstellen.",
-        "details": "Angetrieben von modernster künstlicher Intelligenz hilft Ihnen unser Tool, qualitativ hochwertige Bildungsinhalte schneller als je zuvor zu erstellen. Beschreiben Sie einfach das benötigte Material, und unsere KI kann Prüfungen, Lektionstexte, Multiple-Choice-Fragen und sogar Grafiken erstellen, um Ihre Dokumente zu bereichern. Es spart Ihnen Zeit und stellt sicher, dass Ihre Inhalte genau, ansprechend und gut strukturiert bleiben. Ob Sie eine vollständige Prüfung oder nur Inspiration für eine Lektion benötigen, die KI steht Ihnen bei jedem Schritt zur Seite."
+        "description": "Steigern Sie Ihre Kreativität und Produktivität mit unserem KI-Assistenten, der Sie in jeder Phase der Kurs- und Prüfungserstellung unterstützt.",
+        "detail": "Vom ersten Entwurf bis zum letzten Schliff hilft Ihnen unser intelligenter Assistent, hochwertigen Bildungsinhalt in Sekundenschnelle zu erstellen, zu überarbeiten und zu organisieren. Ob Unterrichtstexte, Multiple-Choice-Fragen, komplette Prüfungen oder Lern-Diagramme – die KI passt sich Ihren Bedürfnissen an. Sie unterstützt Sie bei jedem Schritt – von der Inhaltserstellung über die Bearbeitung bis hin zur Organisation – und sorgt für präzise, ansprechende und gut strukturierte Materialien. Ihre Inhalte können als saubere PDF-Dateien exportiert oder sofort online mit Schülern geteilt werden, für ein nahtloses und professionelles Lehrerlebnis."
       },
       "editor": {
         "title": "Umfassende Bearbeitungstools für Pädagogen",
         "description": "Gestalten Sie umfassende Bildungsinhalte mit LaTeX-Gleichungen, Grafiken, Bildern und strukturierten Prüfungsfragen — alles an einem Ort.",
         "details": "Unsere intuitive Bearbeitungsoberfläche ermöglicht es Ihnen, nahtlos LaTeX-ähnliche Gleichungen zu schreiben, Grafiken zu erstellen, Bilder einzufügen und strukturierte Prüfungsfragen zu erstellen. Ob Sie komplexes mathematisches Material, Grafiken oder standardisierte Multiple-Choice-Tests vorbereiten, unsere Plattform bietet alles, was Sie benötigen, um professionelle und ausgefeilte Bildungsdokumente zu erstellen."
+      },
+      "shareFeature": {
+        "title": "Veröffentlichen Sie Lektionen nach Ihrem Zeitplan",
+        "description": "Bestimmen Sie, wie Ihre Schüler auf Ihre Inhalte zugreifen. Teilen Sie Kurse Abschnitt für Abschnitt – genau abgestimmt auf Ihren Lehrplan oder Semesterverlauf.",
+        "details": "Mit unserem flexiblen Freigabesystem können Sie einzelne Kursabschnitte genau dann veröffentlichen, wenn Sie es möchten. Egal ob nach Semesterplan, Wochenrhythmus oder individueller Struktur – Sie haben die Kontrolle. Auch die Freigabe der Korrekturen lässt sich steuern: sofort, später oder gar nicht. So behalten Schüler den Überblick und folgen Ihrem geplanten Lernpfad. Die Inhalte werden per E-Mail über lab4students.com geteilt – einfach und gezielt."
       },
       "lab4students": {
         "description": "Lab4Students ist eine webbasierte Plattform, mit der Lehrkräfte Kursinhalte und Aufgaben direkt mit ihren Schülern teilen und Online-Prüfungen mit automatischer Korrektur und Bewertung verwalten können.",
@@ -91,7 +96,8 @@
     "exampleExamRequest": "Z. B.: Kannst du eine Prüfung über Ableitungen erstellen?",
     "exampleLessonRequest": "Kannst du mir eine Vorlage für eine Lektion über das Sonnensystem geben?",
     "preview": "Vorschau",
-    "download": "Herunterladen"
+    "download": "Herunterladen",
+    "published": "Veröffentlicht"
   },
   "profile": {
     "profile": "Profil",

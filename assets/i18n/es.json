@@ -15,13 +15,18 @@
       },
       "ai": {
         "title": "IA que comprende las necesidades educativas",
-        "description": "Mejora tu creatividad y productividad con nuestro asistente de IA que te ayuda a generar contenido educativo de alta calidad en segundos.",
-        "details": "Impulsada por inteligencia artificial de última generación, nuestra herramienta te permite generar contenido educativo de calidad más rápido que nunca. Solo describe el material que necesitas, y nuestra IA puede generar exámenes, textos de lecciones, preguntas de opción múltiple e incluso gráficos para enriquecer tus documentos. Te ahorra tiempo mientras garantiza contenido preciso, atractivo y bien estructurado. Ya sea que necesites un examen completo o solo inspiración para una clase, la IA está aquí para ayudarte en cada paso."
+        "description": "Aumenta tu creatividad y productividad con nuestro asistente de IA, disponible en cada paso de la creación de cursos y exámenes.",
+        "detail": "Desde el primer borrador hasta los toques finales, nuestro asistente inteligente te ayuda a generar, perfeccionar y editar contenido educativo de alta calidad en segundos. Ya sea que estés creando textos de lecciones, preguntas de opción múltiple, exámenes completos o gráficos educativos, la IA se adapta a tus necesidades. Te acompaña en todas las fases — desde la generación de contenido hasta la organización — garantizando materiales precisos, atractivos y bien estructurados. Tus recursos pueden exportarse como PDFs imprimibles o compartirse al instante en línea con los estudiantes, brindando una experiencia educativa fluida y profesional."
       },
       "editor": {
         "title": "Herramientas de edición avanzadas para educadores",
         "description": "Diseña contenido educativo completo con ecuaciones LaTeX, gráficos, imágenes y preguntas estructuradas, todo en un solo lugar.",
         "details": "Nuestra interfaz de edición intuitiva te permite escribir ecuaciones estilo LaTeX, crear gráficos, insertar imágenes y construir preguntas de examen estructuradas. Ya sea que estés preparando material matemático complejo, gráficos o exámenes estándar de opción múltiple, nuestra plataforma te proporciona todo lo necesario para crear documentos educativos profesionales y pulidos."
+      },
+      "shareFeature": {
+        "title": "Publica tus lecciones a tu ritmo",
+        "description": "Controla cómo acceden tus estudiantes al contenido. Comparte el curso por secciones, según tu planificación o el ritmo del semestre.",
+        "details": "Nuestro sistema de compartición flexible te permite publicar secciones específicas del curso cuando tú lo decidas. Ya sea siguiendo un calendario semestral, semanal o personalizado, tú eliges cuándo se desbloquea cada parte. También puedes definir cuándo se muestran las correcciones: de inmediato, más tarde o nunca. Esto ayuda a que los estudiantes sigan el ritmo sin sentirse abrumados. Todo se comparte mediante enlaces enviados por correo electrónico a través de lab4students.com, para una distribución cómoda y bajo control."
       },
       "lab4students": {
         "description": "Lab4Students es una plataforma web que permite a los profesores compartir contenido del curso y tareas directamente con sus estudiantes y gestionar exámenes en línea con corrección y puntuación automáticas.",
@@ -91,7 +96,8 @@
     "exampleExamRequest": "Ej.: ¿Puedes crear un examen sobre derivadas?",
     "exampleLessonRequest": "¿Puedes darme una plantilla para una lección sobre el sistema solar?",
     "preview": "Vista previa",
-    "download": "Descargar"
+    "download": "Descargar",
+    "published": "Publicado"
   },
   "profile": {
     "profile": "Perfil",

@@ -15,13 +15,18 @@
       },
       "ai": {
         "title": "AI That Understands Teaching Needs",
-        "description": "Boost your creativity and productivity with our AI assistant that helps generate high-quality educational content in seconds.",
-        "details": "Powered by cutting-edge artificial intelligence, our tool helps you generate quality educational content faster than ever. Simply describe the material you need, and our AI can produce exams, lesson texts, multiple-choice questions, and even graphs to enrich your documents. It saves you time while ensuring that your content stays accurate, engaging, and well-structured. Whether you need a full exam or just inspiration for a lesson, AI is here to assist you at every step."
+        "description": "Boost your creativity and productivity with our AI assistant, available at every step of your course and exam creation process.",
+        "detail": "From the first draft to the final touches, our intelligent assistant helps you generate, refine, and edit high-quality educational content in seconds. Whether you’re creating lesson texts, multiple-choice questions, full exams, or educational graphs, the AI adapts to your needs. It supports you through all phases — from content generation to editing and organization — ensuring your materials are accurate, engaging, and well-structured. Your resources can be exported as clean, printable PDFs or instantly shared online with students, offering a seamless and professional teaching experience from creation to distribution."
       },
       "editor": {
         "title": "Rich Editing Tools for Educators",
         "description": "Design rich educational content with LaTeX equations, graphics, images, and structured exam questions — all in one place.",
         "details": "Our intuitive editing interface allows you to seamlessly write LaTeX-style equations, create graphics, insert images, and build structured exam questions. Whether you are preparing complex mathematical material, graphics, or standard multiple-choice tests, our platform provides everything you need to craft professional and polished educational documents."
+      },
+      "shareFeature": {
+        "title": "Release Lessons Your Way, On Your Schedule",
+        "description": "Take control of how your students access your content. Share courses one section at a time, aligning perfectly with your semester plan or teaching rhythm.",
+        "details": "Our flexible sharing system allows you to publish specific sections of a course when you decide. Whether you want to match a semester schedule, weekly curriculum, or custom progression, you decide when each part becomes available. You can also choose when students can see the correction — immediately, later, or never. This feature helps ensure students stay on track, avoid overload, and follow the learning journey you’ve designed. Everything is shared through email links via lab4students.com, making distribution seamless and controlled."
       },
       "lab4students": {
         "description": "Lab4Students is a web-based platform that allows teachers to share course content and assignments directly with their students and manage online exams with automatic correction and scoring.",
@@ -91,7 +96,8 @@
     "exampleExamRequest": "E.g: Can you create an exam on derivative ?",
     "exampleLessonRequest": "Can you give me a template for a lesson on the solar system ?",
     "preview": "Preview",
-    "download": "Download"
+    "download": "Download",
+    "published": "Published"
   },
   "profile": {
     "profile": "Profile",
