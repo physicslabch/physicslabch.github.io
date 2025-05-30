@@ -13,6 +13,11 @@
         "haveAccount": "Haben Sie ein Konto?",
         "login": "Anmelden"
       },
+      "teachingWorkspace": {
+      "title": "Ihr intelligenter Lehrarbeitsbereich",
+      "description": "Willkommen in Ihrem neuen zentralen Bereich zum Erstellen, Organisieren und Teilen von Unterrichtsinhalten.",
+      "detail": "Lab4Teachers wurde entwickelt, um Ihren Lehralltag zu vereinfachen. Ob vollständige Lektionen, Prüfungen oder KI-gestützte Inhalte – alles ist übersichtlich an einem Ort organisiert. Exportieren Sie Ihre Arbeit als PDF oder teilen Sie sie online mit Ihren Schülern – direkt über Ihr persönliches Dashboard."
+    },
       "ai": {
         "title": "KI, die pädagogische Bedürfnisse versteht",
         "description": "Steigern Sie Ihre Kreativität und Produktivität mit unserem KI-Assistenten, der Sie in jeder Phase der Kurs- und Prüfungserstellung unterstützt.",

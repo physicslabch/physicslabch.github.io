@@ -13,6 +13,11 @@
         "haveAccount": "¿Ya tienes una cuenta?",
         "login": "Iniciar sesión"
       },
+      "teachingWorkspace": {
+      "title": "Tu espacio inteligente para enseñar",
+      "description": "Bienvenido a tu nuevo espacio centralizado para preparar, organizar y compartir tu contenido educativo.",
+      "detail": "Lab4Teachers está diseñado para simplificar tu flujo de trabajo docente. Ya sea que estés creando lecciones, exámenes o contenido con ayuda de la IA, todo está organizado de forma intuitiva en un solo lugar. Exporta tu trabajo como PDF o compártelo en línea con tus estudiantes en solo unos clics — directamente desde tu panel personal."
+    },
       "ai": {
         "title": "IA que comprende las necesidades educativas",
         "description": "Aumenta tu creatividad y productividad con nuestro asistente de IA, disponible en cada paso de la creación de cursos y exámenes.",

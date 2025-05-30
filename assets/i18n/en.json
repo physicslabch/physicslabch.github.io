@@ -13,6 +13,11 @@
         "haveAccount": "Have an account?",
         "login": "Log In"
       },
+      "teachingWorkspace": {
+      "title": "Your Smart Teaching Workspace",
+      "description": "Welcome to your new centralized space for preparing, organizing, and sharing your educational content.",
+      "detail": "Lab4Teachers is designed to simplify your teaching workflow. Whether you're creating full lessons, exams, or AI-assisted content, everything is intuitively organized in one place. Export your work as PDFs or share it online with students in just a few clicks — all from your personal dashboard."
+    },
       "ai": {
         "title": "AI That Understands Teaching Needs",
         "description": "Boost your creativity and productivity with our AI assistant, available at every step of your course and exam creation process.",
